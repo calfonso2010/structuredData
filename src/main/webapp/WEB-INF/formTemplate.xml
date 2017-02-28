@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<identityForm>
+    <property required="true" name="displayName" type="text" defaultValue="" calculatedValue="">
+        <hint>Please type display Name</hint>
+        <label>Display Name</label>
+    </property>
+    
+    <property name="email" type="email" defaultValue="" calculatedValue="" >
+    	<hint>Please type email</hint>
+    	<label>Email</label>
+    </property>
+    
+    <property name="birthDate" type="date" defaultValue="" calculatedValue="" >
+    <hint>Please type birthday</hint>
+    <label>dd/mm/yyyy</label>
+    </property>
+    
+    <property name="phoneNumber" type="text" defaultValue="" calculatedValue="" >
+    <hint>Please type phone number</hint>
+    <label>0xxxxxxxxx</label>
+    </property>
+    <property name="manager" type="identity" defaultValue="" calculatedValue="" />
+</identityForm>

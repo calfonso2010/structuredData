@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><form action="identityAction" method="post">
+    <label for="displayName">Display Name</label><input id="displayName" type="text" name="displayName" required="true" value="" placeholder="Please type here the Display Name" data-calculation=""/>
+    
+    <label for="email"/><input id="email" type="email" name="email" required="" value="" placeholder="" data-calculation=""/>
+    <label for="birthDate"/><input id="birthDate" type="date" name="birthDate" required="" value="" placeholder="" data-calculation=""/>
+    <label for="phoneNumber"/><input id="phoneNumber" type="text" name="phoneNumber" required="" value="" placeholder="" data-calculation=""/>
+    <label for="manager"/><input id="manager" type="identity" name="manager" required="" value="" placeholder="" data-calculation=""/>
+</form>

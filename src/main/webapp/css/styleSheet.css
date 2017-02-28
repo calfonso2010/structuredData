@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+
+header {
+	width: 100%;
+	background: #2F4F4F;
+	color:#FAFAFA;
+	padding: 50px;
+	font-size: 50px;
+	font-family: "Times New Roman";
+}
+h1{
+	font-family: "Times New Roman";
+	color: #FF0000;
+}
+p{
+	font-family: "Times New Roman";
+	color: #FF0000;
+}
+.content {
+	padding-left: 50px;
+	padding-top: 20px;
+	color: #FF0000;
+}
+
+input {
+	width: 400px;
+	border: 1px solid #ccc;
+	background: #FAFAFA;
+	padding: 10px;
+	font-family: "Times New Roman";
+	color: #FF0000;
+}
+
+input[type="submit"] {
+	width: 420px;
+	font-family: "Times New Roman";
+	color: #FF0000;
+}
+
+#messageContent{
+	color:#0000FF;
+	font-family: "Times New Roman";
+	color: #FF0000;
+}
